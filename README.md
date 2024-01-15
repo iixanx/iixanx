@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**iixanx/iixanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://streak-stats.demolab.com?user=iixanx&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
+[![iixanx's GitHub stats](https://github-readme-stats.vercel.app/api?username=iixanx&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Server Developers
+
+### Development language and environment
+  - Node.JS & JS/TS
+  - SpringBoot & Java / Kotlin
+
+### Other
+  - I like to compose
+  - Currently learning Japanese and Spanish
+  - MBTI: INFJ
+
+### Contact
+  - Email : iixiixanx@gmail.com
+  - Instagram : @iixanx__
+  - Twitter : @iixanx
+  - BlueSky : @iixanx.blue.sky
+  - Discord : @iixanx
