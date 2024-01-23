@@ -20,6 +20,4 @@
 ### Contact
   - Email : iixiixanx@gmail.com
   - Instagram : @iixanx__
-  - Twitter : @iixanx
-  - BlueSky : @iixanx.blue.sky
   - Discord : @iixanx
