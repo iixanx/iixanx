@@ -21,3 +21,4 @@
   - Email : iixiixanx@gmail.com
   - Instagram : @iixanx__
   - Discord : @iixanx
+  - LinkedIn : [iixanx](https://www.linkedin.com/in/iixanx/)
