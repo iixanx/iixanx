@@ -4,7 +4,7 @@
 
 [![iixanx's GitHub stats](https://github-readme-stats.vercel.app/api?username=iixanx&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=iixanx)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=iixanx)](https://velog.io/@iixanx/posts)
 
 ## Server Developers
 
